@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/10/02 09:29:48.440.cpp,C:\Users\Pavan\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\Pavan\Desktop\Algoritmos CG\TMain.cpp</Transaction>
+    <Transaction>2012/10/02 09:29:48.440.h,C:\Users\Pavan\Documents\RAD Studio\Projects\Unit1.h=C:\Users\Pavan\Desktop\Algoritmos CG\TMain.h</Transaction>
+    <Transaction>2012/10/02 09:29:48.440.dfm,C:\Users\Pavan\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Pavan\Desktop\Algoritmos CG\TMain.dfm</Transaction>
+    <Transaction>2012/10/02 09:29:57.816.cbproj,C:\Users\Pavan\Documents\RAD Studio\Projects\Project2.cbproj=C:\Users\Pavan\Desktop\Algoritmos CG\AlgoritmosCG.cbproj</Transaction>
+    <Transaction>2012/10/02 14:20:57.902.cpp,C:\Users\Pavan\Desktop\Algoritmos CG\Unit1.cpp=C:\Users\Pavan\Desktop\Algoritmos CG\TCGLine.cpp</Transaction>
+    <Transaction>2012/10/02 14:20:57.902.h,C:\Users\Pavan\Desktop\Algoritmos CG\Unit1.h=C:\Users\Pavan\Desktop\Algoritmos CG\TCGLine.h</Transaction>
+    <Transaction>2012/10/02 14:31:41.890.cpp,C:\Users\Pavan\Desktop\Algoritmos CG\TCGLine.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>
