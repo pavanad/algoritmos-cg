@@ -11,3 +11,4 @@ Algoritmos:
 * Poligonos;
 * Intersecções.
 
+![Algoritimos CG](https://github.com/pavanad/algoritmos-cg/blob/master/screenshot.png)
